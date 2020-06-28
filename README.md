@@ -1,4 +1,4 @@
-# vur-youtube
+# vue-youtube
 
 ## Project setup
 ```
