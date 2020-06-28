@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <p class="display-3">Vue Crash course</p>
+        <p class="display-3">Vue TODO App</p>
       </div>
     </div>
     <div class="row">
